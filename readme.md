@@ -1,4 +1,4 @@
-This shares a personal Python/Pandas cookbook for various, helpful techniques.
+This shares a personal Python/Pandas cookbook for various, helpful techniques. 
 
 |File|Description|Keyword(s)|Date Added/Modified|
 |---|---|---|---|
